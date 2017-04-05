@@ -1,0 +1,15 @@
+@import "../../bower_components/normalize.css/normalize.css";
+@import '../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss';
+@import '../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap';
+$fa-font-path: "../fonts/fontawesome";
+@import '../../bower_components/font-awesome/scss/font-awesome.scss';
+
+/*
+* Custom
+*/
+
+@import "partials/grid.scss";
+@import "partials/owl.carousel.scss";
+@import "partials/owl.theme.scss";
+@import "partials/carousel.scss";
+@import "partials/app.scss";
